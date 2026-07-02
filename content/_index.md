@@ -7,11 +7,11 @@ chapter: false
 
 # Internship Report
 ### Student Information:
-&emsp; **Full Name:** Le Hoang Gia Dai
+&emsp; **Full Name:** Dinh Ngoc Nang
 
-&emsp; **Phone Number:** 0865537586
+&emsp; **Phone Number:** 0383122145
 
-&emsp; **Email:** leehoanggiadai@gmail.com
+&emsp; **Email:** dinhngocnang2004@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology (HUTECH)
 
@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 20/04/2026 to 12/07/2026
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/avatar.jpg?width=300px)
 
 ### Report Content
 

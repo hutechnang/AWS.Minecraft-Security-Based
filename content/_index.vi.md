@@ -7,11 +7,11 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Lê Hoàng Gia Đại
+&emsp; **Họ và tên:** Đinh Ngọc Năng
 
-&emsp; **Số điện thoại:** 0865537586
+&emsp; **Số điện thoại:** 383122145
 
-&emsp; **Email:** leehoanggiadai@gmail.com
+&emsp; **Email:** dinhngocnang2004@gmail.com
 
 &emsp; **Trường:** Đại học Công nghệ Thành phố Hồ Chí Minh (HUTECH)
 
@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 20/04/2026 đến ngày 12/07/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/images/avatar.jpg?width=300px)
 
 ### Nội dung báo cáo
 
