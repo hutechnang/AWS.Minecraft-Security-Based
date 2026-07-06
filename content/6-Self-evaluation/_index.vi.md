@@ -6,21 +6,16 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại **Bootcamp First Cloud AI Journey** từ **20/04/2026** đến **12/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Trong suốt thời gian thực tập tại **Bootcamp First Cloud AI Journey** từ **20/04/2026** đến **12/07/2026**, tôi dành thời gian làm các bài lab tại trên công ty.  
 
-Tôi đã tham gia **xây dựng dự án, tham dự hội thảo, nghiên cứu và học hỏi**, qua đó cải thiện kỹ năng **kỹ năng: lập trình, phân tích, viết báo cáo, giao tiếp…**.  
+Tôi đã tham gia làm các bài lab, qua đó cải thiện kỹ năng sử dụng Trang quản trị AWS.  
 
-Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
+Về tác phong, tôi luôn cố gắng tuân thủ nội quy, và trao đổi với đồng nghiệp những gì không biết để nâng cao hiệu quả công việc.
 
-Để phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
+Trong quá trình thực tập, tôi đã tham gia nghiên cứu và xây dựng dự án **Hệ thống bảo mật máy chủ Minecraft trên AWS**. Thông qua dự án, tôi đã cải thiện nhiều kỹ năng quan trọng.
 
-Trong quá trình thực tập, tôi đã tham gia nghiên cứu và xây dựng dự án **Hệ thống bảo mật máy chủ Minecraft trên AWS**, tập trung vào việc triển khai máy chủ Minecraft trên Amazon EC2, thiết kế kiến trúc bảo mật, phát hiện xâm nhập bằng Amazon GuardDuty, tự động phản ứng bằng AWS Lambda, gửi cảnh báo qua Amazon SNS và sao lưu dữ liệu bằng AWS Backup.
+Để phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí ở trên:
 
-Thông qua dự án, tôi đã cải thiện nhiều kỹ năng quan trọng như **tìm hiểu dịch vụ AWS, thiết kế kiến trúc Cloud, phân tích bảo mật, viết tài liệu kỹ thuật, triển khai hệ thống, kiểm thử, viết báo cáo và trình bày ý tưởng**.
-
-Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ được giao, tuân thủ nội quy, chủ động học hỏi và tích cực trao đổi với người hướng dẫn cũng như đồng nghiệp để nâng cao hiệu quả công việc.
-
-Để phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
 
 | STT | Tiêu chí | Mô tả | Tốt | Khá | Trung bình |
 | --- | --- | --- | --- | --- | --- |
@@ -41,11 +36,10 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ được
 
 ### Cần cải thiện
 
-- Nâng cao tính kỷ luật, chấp hành nghiêm chỉnh nội quy của công ty hoặc bất kỳ tổ chức nào.
-- Cải thiện tư duy giải quyết vấn đề, đặc biệt là khả năng phân tích nguyên nhân và lựa chọn giải pháp phù hợp.
-- Rèn luyện kỹ năng giao tiếp trong công việc, bao gồm cách trình bày ý tưởng, phản hồi ý kiến và xử lý tình huống.
-- Chủ động hơn trong việc lập kế hoạch cá nhân để quản lý thời gian và tiến độ công việc hiệu quả hơn.
-- Tiếp tục nâng cao kiến thức chuyên môn về AWS, Cloud Security và tự động hóa hạ tầng.
+- Tốc độ làm lab, kể cả trong công việc.
+- Cần quản lý tốt tài khoản của bản thân, từ mức độ hoạt động đến chi phí ngầm.
+- Cần tự giác và chủ động trong học tập và công việc
+- Cần nâng cao kiến thức chuyên môn về AWS và công nghệ.
 
 ---
 
