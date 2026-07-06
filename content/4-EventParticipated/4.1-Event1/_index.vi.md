@@ -13,7 +13,7 @@ pre: " <b> 4.1. </b> "
 | **Tên sự kiện** | Mini Meetup – First Cloud AI Journey \| 06/06/2026 |
 | **Thời gian** | 09:00, ngày 06/06/2026 |
 | **Địa điểm** | Tầng 26, Tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh |
-| **Vai trò** | Diễn giả |
+| **Vai trò** | Người tham dự |
 
 ---
 
@@ -55,15 +55,15 @@ Bên cạnh phần trình bày của các diễn giả, người tham dự còn 
 
 ---
 
-# 4. Nội dung tham gia với vai trò diễn giả
+# 4. Nội dung tham gia với vai trò người tham dự
 
-Trong sự kiện, em tham gia với vai trò **Speaker** và trình bày chủ đề:
+Trong sự kiện, em tham gia với vai trò **Người tham dự** và tập trung theo dõi các bài chia sẻ chuyên môn, đặc biệt là chủ đề:
 
 > **Combining AWS WAF with Machine Learning for Cyber Attack Detection on AWS**
 
 Bài trình bày tập trung vào việc xây dựng một giải pháp phát hiện và giảm thiểu các cuộc tấn công mạng bằng cách kết hợp các dịch vụ AWS với mô hình Machine Learning.
 
-## Nội dung chính
+## Các nội dung chính em đã tiếp thu từ buổi chia sẻ
 
 - Tổng quan về các hình thức tấn công phổ biến đối với ứng dụng Web.
 - Vai trò của AWS WAF trong việc lọc và bảo vệ lưu lượng truy cập.
@@ -72,7 +72,7 @@ Bài trình bày tập trung vào việc xây dựng một giải pháp phát hi
 - Kiến trúc triển khai giải pháp trên AWS.
 - Những ưu điểm, hạn chế và khả năng mở rộng của hệ thống trong môi trường thực tế.
 
-Thông qua phần chia sẻ, em có cơ hội trao đổi với cộng đồng về kinh nghiệm triển khai các giải pháp bảo mật trên AWS, đồng thời tiếp nhận nhiều ý kiến đóng góp hữu ích từ các diễn giả và người tham dự.
+Thông qua buổi lắng nghe này, em đã có cơ hội tiếp nhận nhiều góc nhìn thực tế về kinh nghiệm triển khai các giải pháp bảo mật trên AWS từ diễn giả và các thành viên tham gia thảo luận.
 
 ---
 
@@ -85,7 +85,7 @@ Thông qua các bài trình bày tại sự kiện, em học được:
 - Cách ứng dụng Graph Database bằng Amazon Neptune cho các hệ thống GraphRAG.
 - Kinh nghiệm phát triển nghề nghiệp trong lĩnh vực Cloud và DevOps.
 - Các phương pháp nâng cao hiệu quả làm việc nhóm trong các dự án công nghệ.
-- Kỹ năng trình bày, trao đổi chuyên môn và chia sẻ kinh nghiệm với cộng đồng kỹ thuật.
+- Kỹ năng trình bày, trao đổi chuyên môn và chia sẻ kinh nghiệm của các diễn giả trước cộng đồng kỹ thuật.
 
 ---
 
@@ -108,13 +108,13 @@ Những kiến thức thu nhận được từ sự kiện có thể áp dụng 
 
 Các bài chia sẻ đều xuất phát từ kinh nghiệm triển khai thực tế, giúp người tham dự hiểu rõ hơn cách ứng dụng các dịch vụ AWS vào từng bài toán cụ thể.
 
-## Trải nghiệm với vai trò diễn giả
+## Trải nghiệm khi tham gia học hỏi
 
-Việc trực tiếp trình bày trước cộng đồng giúp em:
+Việc lắng nghe trực tiếp từ các bài thuyết trình giúp em:
 
-- Củng cố kiến thức chuyên môn.
-- Rèn luyện kỹ năng thuyết trình.
-- Nâng cao khả năng trả lời các câu hỏi kỹ thuật.
+- Củng cố và mở rộng kiến thức chuyên môn.
+- Học hỏi kỹ năng thuyết trình và cách truyền đạt thông tin từ các chuyên gia.
+- Nâng cao khả năng phân tích và đánh giá các giải pháp kỹ thuật.
 - Tiếp nhận nhiều góc nhìn mới từ các chuyên gia và cộng đồng.
 
 ## Tiếp cận công nghệ hiện đại
@@ -136,7 +136,7 @@ Qua đó, em hiểu rõ hơn cách kết hợp nhiều công nghệ để xây d
 
 AWS Meetup là cơ hội để:
 
-- Giao lưu với các chuyên gia và diễn giả.
+- Giao lưu với các chuyên gia, diễn giả và các bạn học viên khác.
 - Trao đổi kinh nghiệm triển khai dự án thực tế.
 - Mở rộng mối quan hệ trong cộng đồng AWS và Cloud Computing.
 - Học hỏi các xu hướng công nghệ mới.
@@ -148,10 +148,10 @@ AWS Meetup là cơ hội để:
 Sau khi tham gia sự kiện, em rút ra một số bài học quan trọng:
 
 - Kiến thức lý thuyết cần đi đôi với kinh nghiệm triển khai thực tế.
-- Việc chia sẻ kiến thức không chỉ giúp cộng đồng phát triển mà còn giúp người chia sẻ củng cố và hệ thống hóa kiến thức của bản thân.
+- Việc lắng nghe và chủ động học hỏi từ cộng đồng giúp bản thân củng cố và hệ thống hóa kiến thức một cách nhanh chóng hơn.
 - AWS cung cấp hệ sinh thái dịch vụ mạnh mẽ có thể kết hợp với AI để xây dựng các giải pháp bảo mật thông minh.
 - Tham gia cộng đồng công nghệ là cách hiệu quả để cập nhật xu hướng mới và mở rộng kiến thức chuyên môn.
-- Việc thường xuyên tham gia các Meetup và hội thảo chuyên môn góp phần nâng cao kỹ năng kỹ thuật, kỹ năng giao tiếp, thuyết trình và làm việc nhóm.
+- Việc thường xuyên tham gia các Meetup và hội thảo chuyên môn góp phần nâng cao tư duy kỹ thuật, kỹ năng giao tiếp và khả năng làm việc nhóm.
 
 ---
 
@@ -171,4 +171,4 @@ Sau khi tham gia sự kiện, em rút ra một số bài học quan trọng:
 
 ## Kết luận
 
-AWS Meetup là một sự kiện chuyên môn có giá trị, mang lại nhiều kiến thức thực tiễn về các công nghệ AWS, Cloud Computing, DevOps, AI và Cyber Security. Với vai trò là một diễn giả, em không chỉ có cơ hội chia sẻ kinh nghiệm của bản thân mà còn học hỏi được nhiều kiến thức bổ ích từ các chuyên gia và cộng đồng. Đây là một trải nghiệm ý nghĩa, góp phần nâng cao chuyên môn, kỹ năng trình bày cũng như mở rộng mạng lưới kết nối trong lĩnh vực công nghệ.
+AWS Meetup là một sự kiện chuyên môn có giá trị, mang lại nhiều kiến thức thực tiễn về các công nghệ AWS, Cloud Computing, DevOps, AI và Cyber Security. Với vai trò là một người tham dự, em đã có cơ hội học hỏi được nhiều kiến thức bổ ích từ các chuyên gia và các anh chị trong cộng đồng. Đây là một trải nghiệm ý nghĩa, góp phần nâng cao chuyên môn, tư duy hệ thống cũng như mở rộng mạng lưới kết nối trong lĩnh vực công nghệ.

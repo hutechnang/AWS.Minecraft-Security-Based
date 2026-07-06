@@ -13,7 +13,7 @@ pre: " <b> 4.1. </b> "
 | **Event Name** | Mini Meetup – First Cloud AI Journey \| 06/06/2026 |
 | **Date & Time** | 09:00 AM, June 6, 2026 |
 | **Venue** | 26th Floor, Bitexco Financial Tower, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City, Vietnam |
-| **Role** | Speaker |
+| **Role** | Attendee |
 
 ---
 
@@ -55,15 +55,15 @@ Besides the presentations, participants had the opportunity to ask questions, en
 
 ---
 
-# 4. My Contribution as a Speaker
+# 4. My Experience as an Attendee
 
-During the meetup, I participated as a **Speaker** and presented the topic:
+During the meetup, I participated as an **Attendee** and followed several technical presentations, with a particular interest in the topic:
 
 > **Combining AWS WAF with Machine Learning for Cyber Attack Detection on AWS**
 
-My presentation focused on designing an intelligent security solution that combines AWS services with Machine Learning techniques to detect and mitigate cyber attacks targeting web applications.
+The presentation focused on designing an intelligent security solution that combines AWS services with Machine Learning techniques to detect and mitigate cyber attacks targeting web applications.
 
-## Main Topics Covered
+## Main Topics I Learned From The Sessions
 
 - An overview of common cyber attacks against web applications.
 - The role of AWS WAF in filtering and protecting web traffic.
@@ -72,7 +72,7 @@ My presentation focused on designing an intelligent security solution that combi
 - Designing the overall AWS architecture for the proposed solution.
 - Advantages, limitations, and scalability considerations of the system in real-world environments.
 
-Through this presentation, I had the opportunity to share my experience in developing cloud security solutions while receiving valuable feedback and insights from fellow speakers and participants.
+Through these sessions, I had the opportunity to gain valuable insights from fellow speakers and participants while engaging in discussions around cloud security solutions.
 
 ---
 
@@ -108,13 +108,13 @@ The knowledge acquired during the meetup can be applied to:
 
 Each presentation was based on real-world implementation experience, enabling participants to better understand how AWS services are applied to solve practical business and technical challenges.
 
-## Experience as a Speaker
+## Benefits of Participating
 
-Presenting at the meetup allowed me to:
+Attending the meetup allowed me to:
 
 - Strengthen my technical expertise.
-- Improve my public speaking and presentation skills.
-- Enhance my ability to answer technical questions.
+- Observe and learn professional presentation and public speaking skills from industry experts.
+- Enhance my ability to analyze technical solutions.
 - Gain valuable insights from experienced professionals and the AWS community.
 
 ## Exposure to Modern Technologies
@@ -136,7 +136,7 @@ These sessions demonstrated how different technologies can be integrated to buil
 
 The meetup also provided valuable networking opportunities by allowing participants to:
 
-- Connect with AWS experts and fellow speakers.
+- Connect with AWS experts and speakers.
 - Exchange experiences from real-world projects.
 - Expand professional relationships within the AWS and Cloud Computing community.
 - Learn about emerging technologies and industry best practices.
@@ -148,10 +148,10 @@ The meetup also provided valuable networking opportunities by allowing participa
 After participating in the event, I drew several important conclusions:
 
 - Strong theoretical knowledge should always be accompanied by practical implementation experience.
-- Sharing knowledge not only benefits the community but also strengthens one's own understanding.
+- Actively listening and participating in tech communities helps accelerate personal growth and strengthens one's own technical understanding.
 - AWS provides a powerful ecosystem of services that can be integrated with Artificial Intelligence to build intelligent cybersecurity solutions.
 - Actively engaging with the technology community is one of the best ways to stay current with industry trends and continuously improve technical expertise.
-- Regular participation in technical meetups and conferences contributes significantly to professional growth, communication skills, public speaking abilities, and teamwork.
+- Regular participation in technical meetups and conferences contributes significantly to professional growth, communication skills, and critical thinking.
 
 ---
 
@@ -171,4 +171,4 @@ After participating in the event, I drew several important conclusions:
 
 # Conclusion
 
-The AWS Meetup was a valuable technical event that provided practical insights into AWS, Cloud Computing, DevOps, Artificial Intelligence, and Cybersecurity. As a speaker, I had the opportunity not only to share my own experience but also to learn from industry professionals and community members. The event significantly enhanced my technical knowledge, presentation skills, and professional network within the cloud computing community.
+The AWS Meetup was a valuable technical event that provided practical insights into AWS, Cloud Computing, DevOps, Artificial Intelligence, and Cybersecurity. As an attendee, I had the opportunity to learn from industry professionals and community members. The event significantly enhanced my technical knowledge, structural understanding, and professional network within the cloud computing community.

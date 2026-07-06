@@ -13,7 +13,7 @@ During my internship, I participated in three events. Each one was a memorable e
 
 &emsp;**Date & Time:** 09:00, May 30, 2026  
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City   
+&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
 
 &emsp;**Role:** Attendee  
 
@@ -26,7 +26,7 @@ During my internship, I participated in three events. Each one was a memorable e
 
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
 
-&emsp;**Role:** Speaker  
+&emsp;**Role:** Attendee  
 
 ---
 
@@ -35,6 +35,6 @@ During my internship, I participated in three events. Each one was a memorable e
 
 &emsp;**Date & Time:** 09:00, June 20, 2026  
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City   
+&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
 
-&emsp;**Role:** Attendee  
+&emsp;**Role:** Attendee
