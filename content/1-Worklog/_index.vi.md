@@ -1,6 +1,6 @@
 ---
 title: "Nhật ký công việc"
-date: 2024-01-01
+date: 2026-04-17
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
@@ -20,13 +20,13 @@ Nội dung các tuần như sau:
 
 **Tuần 4:** [IAM cơ bản và phân quyền least privilege](1.4-week4/)
 
-**Tuần 5:** [VPC networking và kiểm tra kết nối](1.5-week5/)
+**Tuần 5:** [IAM roles cho EC2 và credential bảo mật](1.5-week5/)
 
-**Tuần 6:** [EC2 nâng cao, vòng đời instance và deploy ứng dụng](1.6-week6/)
+**Tuần 6:** [AWS Cloud9 và thực hành AWS CLI](1.6-week6/)
 
-**Tuần 7:** [IAM roles cho EC2 và credential bảo mật](1.7-week7/)
+**Tuần 7:** [VPC networking và kiểm tra kết nối](1.7-week7/)
 
-**Tuần 8:** [AWS Cloud9 và thực hành AWS CLI](1.8-week8/)
+**Tuần 8:** [Mạng nâng cao, VPN Site-to-Site và Tự động hóa IaC](1.8-week8/)
 
 **Tuần 9:** [S3 static website hosting và CloudFront](1.9-week9/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 7"
-date: 2026-05-29
+date: 2026-06-01
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
@@ -8,24 +8,24 @@ pre: " <b> 1.7. </b> "
 
 ### Mục tiêu tuần 7:
 
-* Hiểu vai trò của IAM role cho EC2 và lý do nó an toàn hơn access key.
-* Thực hành gắn instance profile và sử dụng temporary credentials.
-* Truy cập tài nguyên AWS từ EC2 mà không dùng credential cố định.
+* Nghiên cứu kiến trúc mạng máy tính đám mây với Amazon VPC.
+* Tìm hiểu hệ thống tường lửa hai lớp (Security Group & Network ACLs).
+* Thực hành cấu hình tiền đề và khởi tạo máy chủ EC2 đặt trong VPC an toàn.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Xem lại rủi ro của access key dài hạn<br>- So sánh IAM user access key với instance role | 29/05/2026 | 29/05/2026 | Tài liệu AWS IAM |
-| 3 | - Tạo IAM role cho EC2<br>- Gắn quyền truy cập S3<br>- Xem lại trust policy | 30/05/2026 | 30/05/2026 | AWS IAM console |
-| 4 | - Gắn role vào EC2<br>- Kiểm tra temporary credentials qua metadata | 31/05/2026 | 31/05/2026 | EC2 instance metadata |
-| 5 | - Truy cập S3 từ EC2 bằng role<br>- Test thao tác đọc/ghi<br>- Kiểm tra không còn key cố định trong code | 01/06/2026 | 02/06/2026 | AWS SDK examples |
-| 6 | - Ghi chú cleanup cho role và instance profile<br>- Tổng hợp best practices | 02/06/2026 | 02/06/2026 | AWS IAM best practices |
+| --- | --- | --- | --- | --- |
+| 2 | - Học lý thuyết mạng: Subnet, Route Table, Internet Gateway, CIDR blocks | 01/06/2026 | 01/06/2026 | https://000003.awsstudygroup.com/1-introduce/ |
+| 3 | - So sánh cơ chế hoạt động của Security Group (Stateful) và NACL (Stateless) | 02/06/2026 | 02/06/2026 | https://000003.awsstudygroup.com/2-firewallinvpc/ |
+| 4 | - Thực hành cấu hình Rule tường lửa: Chặn/Mở IP dải port cụ thể để tăng cường bảo mật | 03/06/2026 | 03/06/2026 | https://000003.awsstudygroup.com/2-firewallinvpc/ |
+| 5 | - Chuẩn bị các thông số kỹ thuật mạng và kiểm tra thông tin định tuyến | 04/06/2026 | 04/06/2026 | https://000003.awsstudygroup.com/3-prerequisite/ |
+| 6 | - Thực hành Lab: Tạo lập thành công thực thể máy chủ EC2 nằm trong phân vùng VPC | 05/06/2026 | 05/06/2026 | https://000003.awsstudygroup.com/4-createec2server/ |
+| 7 | - Thực hiện kiểm tra kết nối mạng hai chiều từ internet đến EC2 Server | 06/06/2026 | 06/06/2026 | https://000003.awsstudygroup.com/4-createec2server/ |
+| CN | - Mô phỏng lại sơ đồ kiến trúc mạng tuần 7 phục vụ báo cáo tiến độ | 07/06/2026 | 07/06/2026 | Personal Notes, Draw.io |
 
 ### Kết quả đạt được tuần 7:
 
-* Hiểu rõ tại sao nên dùng IAM role thay vì access key dài hạn.
-* Tạo và gắn IAM role vào EC2 thành công.
-* Truy cập tài nguyên AWS từ EC2 mà không dùng credential hardcode.
-* Kiểm tra hành vi temporary credential qua instance metadata.
-* Ghi nhận best practices khi dùng role cho EC2.
+* Nắm vững quy hoạch dải mạng CIDR và phân tách phân vùng logic trên AWS.
+* Xây dựng hệ thống tường lửa 2 lớp bảo vệ máy chủ điện toán khỏi các rủi ro mạng.
+* Triển khai thực tế hạ tầng EC2 Server an toàn bảo mật.

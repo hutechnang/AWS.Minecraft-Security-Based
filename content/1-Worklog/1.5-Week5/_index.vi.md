@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 5"
-date: 2026-05-15
+date: 2026-05-18
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -8,24 +8,24 @@ pre: " <b> 1.5. </b> "
 
 ### Mục tiêu tuần 5:
 
-* Xây dựng môi trường VPC hoàn chỉnh trên AWS.
-* Học subnetting, route table, IGW, NAT Gateway, Security Group và NACL.
-* Thực hành kiểm tra kết nối và giám sát mạng.
+* Nghiên cứu rủi ro lộ lọt thông tin mã khóa lập trình tĩnh.
+* Tìm hiểu phương pháp quản lý IAM Access Key an toàn.
+* Thực hành thay thế Access Key bằng IAM Role cho máy chủ EC2 (Instance Profile).
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Tìm hiểu VPC, subnet, route table, IGW, NAT<br>- Học Security Group và NACL | 15/05/2026 | 15/05/2026 | Tài liệu AWS VPC |
-| 3 | - Tạo VPC<br>- Tạo public và private subnet<br>- Gắn Internet Gateway | 16/05/2026 | 16/05/2026 | AWS VPC console |
-| 4 | - Cấu hình route table cho public và private<br>- Tạo và kiểm tra NAT Gateway | 17/05/2026 | 17/05/2026 | AWS networking guides |
-| 5 | - Tạo Security Group và NACL<br>- Bật VPC Flow Logs<br>- Chạy Reachability Analyzer | 18/05/2026 | 19/05/2026 | AWS VPC security docs |
-| 6 | - Launch EC2 trong VPC<br>- Kết nối bằng Session Manager<br>- Xem CloudWatch metrics và alarms | 19/05/2026 | 19/05/2026 | AWS Systems Manager |
+| --- | --- | --- | --- | --- |
+| 2 | - Chuẩn bị môi trường CLI local phục vụ kiểm thử bảo mật credentials | 18/05/2026 | 18/05/2026 | https://000048.awsstudygroup.com/1-prepare/ |
+| 3 | - Thực hành Lab: Tạo IAM Access Key và kiểm thử kết nối lập trình | 19/05/2026 | 19/05/2026 | https://000048.awsstudygroup.com/2-accesskey/ |
+| 4 | - Mô phỏng tấn công rò rỉ mã nguồn chứa Access Key (Tư duy Red Team) | 20/05/2026 | 20/05/2026 | https://000048.awsstudygroup.com/2-accesskey/ |
+| 5 | - Thực hành Lab: Tạo một IAM Role dành riêng cho dịch vụ máy chủ EC2 | 21/05/2026 | 21/05/2026 | https://000048.awsstudygroup.com/3-iamroleec2/ |
+| 6 | - Thực hành Lab: Gán Instance Profile vào EC2 để thực thi lệnh không cần Key cứng | 22/05/2026 | 22/05/2026 | https://000048.awsstudygroup.com/3-iamroleec2/ |
+| 7 | - Tiến hành thu hồi Access Key cũ và dọn dẹp hạ tầng lab (Cleanup) | 23/05/2026 | 23/05/2026 | https://000048.awsstudygroup.com/4-cleanup/ |
+| CN | - Đánh giá ưu điểm giải pháp bảo mật Keyless phục vụ mục tiêu DevSecOps | 24/05/2026 | 24/05/2026 | Personal Notes, Security Logs |
 
 ### Kết quả đạt được tuần 5:
 
-* Xây dựng được VPC có public subnet và private subnet.
-* Cấu hình đúng routing, NAT, SG và NACL.
-* Kiểm tra đường đi mạng bằng Reachability Analyzer.
-* Kết nối EC2 không cần SSH bằng Session Manager.
-* Cấu hình CloudWatch giám sát cơ bản cho mạng.
+* Nhận thức sâu rủi ro của việc hardcode Access Key trong mã nguồn phần mềm.
+* Cấu hình thành công cơ chế cấp quyền động an toàn thông qua Instance Profile.
+* Loại bỏ hoàn toàn thông tin xác thực tĩnh, tăng cường an toàn hệ thống.

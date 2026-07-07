@@ -1,30 +1,31 @@
 ---
 title: "Week 3 Worklog"
-date: 2026-05-01
+date: 2026-05-04
 weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
 
-### Week 3 Objectives
+### Week 3 Objectives:
 
-* Understand AWS Support plans and escalation paths.
-* Learn how to open, track, and manage support cases.
-* Decide when to use documentation, AWS Health, and support tickets.
+* Explore the AWS Support Plans matrix and incident support protocols.
+* Understand how to navigate the AWS Support Center dashboard securely.
+* Practice creating and tracking technical support cases through their lifecycle.
 
 ### Tasks to be carried out this week:
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Review AWS Support plan tiers<br>- Compare Developer, Business, and Enterprise support<br>- Note use cases for each tier | 01/05/2026 | 01/05/2026 | AWS Support documentation |
-| 3 | - Learn how to access AWS Support Center<br>- Review support case categories and severity levels | 02/05/2026 | 02/05/2026 | AWS Management Console |
-| 4 | - Open a support case for a learning scenario<br>- Describe issue, service, and severity clearly | 03/05/2026 | 03/05/2026 | AWS Support Center |
-| 5 | - Track open cases and reply threads<br>- Learn about case closure and follow-up | 04/05/2026 | 05/05/2026 | AWS Support console |
-| 6 | - Summarize support best practices<br>- Document when to use AWS Health, forums, docs, or support | 05/05/2026 | 05/05/2026 | AWS support guides |
+| Day | Tasks | Start Date | Completion Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | - Evaluate differences across AWS Support Plan tiers (Basic, Developer, Business, Enterprise) | 04/05/2026 | 04/05/2026 | https://000009.awsstudygroup.com/1-support-plans/ |
+| Tue | - Gain console navigation skills within the primary AWS Support Center module | 05/05/2026 | 05/05/2026 | https://000009.awsstudygroup.com/2-access-support/ |
+| Wed | - Understand severity tier guidelines and matching response times | 06/05/2026 | 06/05/2026 | https://000009.awsstudygroup.com/1-support-plans/ |
+| Thu | - Hands-on Lab: Open and manipulate a technical support case ticket context | 07/05/2026 | 07/05/2026 | https://000009.awsstudygroup.com/3-manage-cases/ |
+| Fri | - Learn proper technical logging etiquette to accelerate engineering resolution | 08/05/2026 | 08/05/2026 | https://000009.awsstudygroup.com/3-manage-cases/ |
+| Sat | - Conclude support correspondence and close open case entries properly | 09/05/2026 | 09/05/2026 | https://000009.awsstudygroup.com/3-manage-cases/ |
+| Sun | - Formulate documentation concerning enterprise case routing and escalation paths | 10/05/2026 | 10/05/2026 | Personal Notes, AWS Support Center |
 
-### Week 3 Achievements
+### Week 3 Achievements:
 
-* Understood the differences between AWS Support plans.
-* Practiced opening and managing support cases.
-* Learned how to select severity and include reproducible details.
-* Documented a support-escalation checklist for future learning.
+* Differentiated clearly between SLAs and costs of multiple support tiers.
+* Operated the AWS Support Center dashboard fluently to simulate problem reporting.
+* Managed ticket lifecycle from generation through resolving and archiving stages.

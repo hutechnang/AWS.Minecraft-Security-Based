@@ -1,6 +1,6 @@
 ---
 title: "Worklog"
-date: 2024-01-01
+date: 2026-04-17
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
@@ -20,13 +20,13 @@ Weekly contents:
 
 **Week 4:** [IAM fundamentals and least-privilege access](1.4-week4/)
 
-**Week 5:** [VPC networking and connectivity verification](1.5-week5/)
+**Week 5:** [IAM roles for EC2 and secure credential usage](1.5-week5/)
 
-**Week 6:** [EC2 advanced lifecycle and application deployment](1.6-week6/)
+**Week 6:** [AWS Cloud9 and AWS CLI practice](1.6-week6/)
 
-**Week 7:** [IAM roles for EC2 and secure credential usage](1.7-week7/)
+**Week 7:** [VPC networking and connectivity verification](1.7-week7/)
 
-**Week 8:** [AWS Cloud9 and AWS CLI practice](1.8-week8/)
+**Week 8:** [Advanced networking, VPN Site-to-Site and IaC Automation](1.8-week8/)
 
 **Week 9:** [S3 static website hosting and CloudFront](1.9-week9/)
 

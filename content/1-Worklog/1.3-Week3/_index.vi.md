@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 3"
-date: 2026-05-01
+date: 2026-05-04
 weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
@@ -8,23 +8,24 @@ pre: " <b> 1.3. </b> "
 
 ### Mục tiêu tuần 3:
 
-* Tìm hiểu các gói hỗ trợ AWS và cách mở support case.
-* Học cách mô tả vấn đề, chọn mức độ nghiêm trọng và theo dõi case.
-* Xác định khi nào dùng tài liệu, AWS Health hoặc support chính thức.
+* Tìm hiểu hệ thống AWS Support Plans.
+* Học cách truy cập AWS Support Center và phân quyền liên quan.
+* Thực hành quản lý, tạo mới và xử lý các Case hỗ trợ kỹ thuật.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Tìm hiểu các gói AWS Support<br>- So sánh Developer, Business và Enterprise<br>- Ghi nhận trường hợp phù hợp từng gói | 01/05/2026 | 01/05/2026 | Tài liệu AWS Support |
-| 3 | - Tìm hiểu cách truy cập Support Center<br>- Ôn các loại case và mức severity | 02/05/2026 | 02/05/2026 | AWS console |
-| 4 | - Mở một support case mẫu<br>- Mô tả rõ vấn đề, dịch vụ và mức độ ưu tiên | 03/05/2026 | 03/05/2026 | AWS Support Center |
-| 5 | - Theo dõi case đang mở<br>- Thực hành phản hồi và đóng case | 04/05/2026 | 05/05/2026 | AWS Support console |
-| 6 | - Tổng hợp best practices khi dùng support<br>- Ghi chú khi dùng AWS Health, docs hoặc forum | 05/05/2026 | 05/05/2026 | AWS support guides |
+| --- | --- | --- | --- | --- |
+| 2 | - Phân biệt các gói AWS Support Plans (Basic, Developer, Business, Enterprise) | 04/05/2026 | 04/05/2026 | https://000009.awsstudygroup.com/1-support-plans/ |
+| 3 | - Thực hành truy cập AWS Support Center và quản lý giao diện điều khiển | 05/05/2026 | 05/05/2026 | https://000009.awsstudygroup.com/2-access-support/ |
+| 4 | - Nghiên cứu mức độ nghiêm trọng (Severity) và thời gian phản hồi (SLA) | 06/05/2026 | 06/05/2026 | https://000009.awsstudygroup.com/1-support-plans/ |
+| 5 | - Thực hành Lab: Tạo một Case hỗ trợ kỹ thuật giả định (Manage Cases) | 07/05/2026 | 07/05/2026 | https://000009.awsstudygroup.com/3-manage-cases/ |
+| 6 | - Học cách giao tiếp, cung cấp log lỗi tối ưu để kỹ sư AWS hỗ trợ nhanh nhất | 08/05/2026 | 08/05/2026 | https://000009.awsstudygroup.com/3-manage-cases/ |
+| 7 | - Thực hành đóng Case sau khi sự cố giả định được remidiation xong | 09/05/2026 | 09/05/2026 | https://000009.awsstudygroup.com/3-manage-cases/ |
+| CN | - Hệ thống lại tài liệu thực hành Support Center, chuẩn bị cho tuần tiếp theo | 10/05/2026 | 10/05/2026 | Personal Notes, AWS Support Center |
 
 ### Kết quả đạt được tuần 3:
 
-* Phân biệt được các gói AWS Support và chọn gói phù hợp theo tình huống học tập.
-* Thực hành mở và quản lý support case.
-* Nắm cách chọn severity và mô tả vấn đề rõ ràng hơn.
-* Xây dựng checklist sử dụng support hợp lý.
+* Nắm rõ quyền lợi và chi phí của từng gói AWS Support.
+* Sử dụng thành thạo AWS Support Center để xử lý yêu cầu kỹ thuật.
+* Làm chủ vòng đời của một ticket hỗ trợ kỹ thuật.

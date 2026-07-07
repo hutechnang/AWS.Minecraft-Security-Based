@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 8"
-date: 2026-06-05
+date: 2026-06-08
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -8,24 +8,24 @@ pre: " <b> 1.8. </b> "
 
 ### Mục tiêu tuần 8:
 
-* Làm việc với AWS Cloud9 như môi trường phát triển trên cloud.
-* Thực hành chỉnh sửa file và thao tác dòng lệnh trong IDE.
-* Sử dụng AWS CLI một cách nhất quán từ môi trường cloud.
+* Mở rộng mạng đám mây lai với giải pháp AWS Site-to-Site VPN.
+* Thành thạo quy trình gỡ bỏ (Cleanup) hạ tầng mạng phức tạp liên kết chéo.
+* Tiếp cận xu hướng Tự động hóa hạ tầng bằng mã nguồn (Infrastructure as Code - IaC).
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Tìm hiểu Cloud9 và kiến trúc môi trường<br>- Xác định runtime và tích hợp AWS | 05/06/2026 | 05/06/2026 | Tài liệu AWS Cloud9 |
-| 3 | - Tạo môi trường Cloud9<br>- Khám phá giao diện IDE<br>- Cài công cụ CLI hữu ích | 06/06/2026 | 06/06/2026 | AWS Cloud9 console |
-| 4 | - Tạo và chỉnh sửa file trong Cloud9<br>- Thực hành terminal và điều hướng file | 07/06/2026 | 07/06/2026 | Hướng dẫn Cloud9 |
-| 5 | - Cấu hình AWS CLI trong Cloud9<br>- Chạy lệnh AWS cơ bản<br>- Kiểm tra credentials và region | 08/06/2026 | 09/06/2026 | Tài liệu AWS CLI |
-| 6 | - Dọn dẹp môi trường Cloud9<br>- Tổng hợp lợi ích của IDE cloud | 09/06/2026 | 09/06/2026 | AWS best practices |
+| --- | --- | --- | --- | --- |
+| 2 | - Nghiên cứu cấu phần VPN: Customer Gateway, Virtual Private Gateway, mã hóa IPSec | 08/06/2026 | 08/06/2026 | https://000003.awsstudygroup.com/5-vpnsitetosite/ |
+| 3 | - Thực hành Lab: Cấu hình thiết lập kênh truyền mã hóa VPN kết nối giả định | 09/06/2026 | 09/06/2026 | https://000003.awsstudygroup.com/5-vpnsitetosite/ |
+| 4 | - Thực hiện kiểm tra trạng thái Tunnel hoạt động ổn định và truyền tải gói tin bảo mật | 10/06/2026 | 10/06/2026 | https://000003.awsstudygroup.com/5-vpnsitetosite/ |
+| 5 | - Học tập quy trình tháo gỡ (Cleanup) tài nguyên mạng tránh dính lỗi dependency block | 11/06/2026 | 11/06/2026 | https://000003.awsstudygroup.com/6-cleanup/ |
+| 6 | - Tìm hiểu lý thuyết Infrastructure as Code (IaC) qua công cụ AWS CloudFormation/Terraform | 12/06/2026 | 12/06/2026 | https://000003.awsstudygroup.com/7-infrastructureascode/ |
+| 7 | - Thực hành Lab: Đọc hiểu và khởi chạy một template tự động dựng VPC/EC2 nhanh chóng | 13/06/2026 | 13/06/2026 | https://000003.awsstudygroup.com/7-infrastructureascode/ |
+| CN | - Đánh giá vai trò quét lỗi bảo mật sớm trên file cấu hình hạ tầng IaC (DevSecOps) | 14/06/2026 | 14/06/2026 | Personal Notes, GitHub Templates |
 
 ### Kết quả đạt được tuần 8:
 
-* Tạo và sử dụng thành công môi trường Cloud9.
-* Thực hành các thao tác file và terminal trong IDE.
-* Cấu hình AWS CLI và chạy lệnh AWS từ Cloud9.
-* Hiểu rõ trường hợp nên dùng IDE cloud để phát triển.
-* Ghi nhớ quy trình dọn dẹp Cloud9 sau khi sử dụng.
+* Cấu hình thành công giải pháp mạng kết nối Hybrid đám mây lai bảo mật.
+* Thao tác gỡ bỏ tài nguyên mạng theo đúng chuẩn kỹ thuật.
+* Tự động hóa triển khai hạ tầng thành công thông qua file IaC mẫu.

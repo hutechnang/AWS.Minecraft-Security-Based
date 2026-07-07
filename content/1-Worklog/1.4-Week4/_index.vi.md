@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 4"
-date: 2026-05-08
+date: 2026-05-11
 weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
@@ -8,23 +8,24 @@ pre: " <b> 1.4. </b> "
 
 ### Mục tiêu tuần 4:
 
-* Nắm IAM cơ bản: user, group, policy và access boundary.
-* Thực hành thiết kế phân quyền theo nguyên tắc least privilege.
-* Tách quyền root và quyền vận hành hàng ngày.
+* Nghiên cứu bảo mật danh tính với AWS Identity and Access Management (IAM).
+* Thực hành tạo Admin User và Admin Group an toàn.
+* Tìm hiểu kiến trúc IAM Role và cơ chế Switch Roles thay thế root user.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Ôn lại IAM: user, group, role, policy<br>- So sánh managed policy và inline policy | 08/05/2026 | 08/05/2026 | Tài liệu AWS IAM |
-| 3 | - Tạo nhóm quản trị<br>- Gắn policy phù hợp<br>- Tạo user quản trị | 09/05/2026 | 09/05/2026 | AWS IAM console |
-| 4 | - Đăng nhập bằng user quản trị<br>- Kiểm tra quyền console và CLI | 10/05/2026 | 10/05/2026 | Trang đăng nhập AWS |
-| 5 | - Tạo user vận hành<br>- Tạo policy cho phép đổi role<br>- Thử đổi role | 11/05/2026 | 12/05/2026 | Hướng dẫn AWS IAM role |
-| 6 | - Kiểm tra user không dùng và quyền thừa<br>- Ghi chú quy trình dọn IAM | 12/05/2026 | 12/05/2026 | AWS IAM best practices |
+| --- | --- | --- | --- | --- |
+| 2 | - Học lý thuyết IAM, rủi ro bảo mật từ tài khoản root | 11/05/2026 | 11/05/2026 | https://000002.awsstudygroup.com/1-introduction/ |
+| 3 | - Thực hành Lab: Khởi tạo Admin User, Admin Group, gán Policy phân quyền | 12/05/2026 | 12/05/2026 | https://000002.awsstudygroup.com/2-create-admin-user-and-group/ |
+| 4 | - Tìm hiểu định nghĩa IAM Role và Trusted Entities trong môi trường doanh nghiệp | 13/05/2026 | 13/05/2026 | https://000002.awsstudygroup.com/3-aws-role/ |
+| 5 | - Thực hành Lab: Khởi tạo một IAM Role phân quyền giới hạn | 14/05/2026 | 14/05/2026 | https://000002.awsstudygroup.com/3-aws-role/ |
+| 6 | - Thực hành Lab: Thực hiện Switch Roles từ tài khoản giới hạn sang quyền hạn đặc biệt | 15/05/2026 | 15/05/2026 | https://000002.awsstudygroup.com/4-switch-roles/ |
+| 7 | - Thực hiện dọn dẹp (Cleanup) các thực thể IAM thử nghiệm để bảo vệ tài khoản | 16/05/2026 | 16/05/2026 | https://000002.awsstudygroup.com/5-cleanup/ |
+| CN | - Ghi chép mô hình phân quyền tối thiểu áp dụng cho các dự án sau | 17/05/2026 | 17/05/2026 | Personal Notes, IAM Dashboard |
 
 ### Kết quả đạt được tuần 4:
 
-* Tạo được group và user cho vai trò quản trị, vận hành.
-* Áp dụng phân quyền theo least privilege.
-* Thực hành đổi role và xác định phạm quyền.
-* Xây dựng checklist quản trị IAM.
+* Hiểu rõ bản chất Authentication và Authorization trên đám mây AWS.
+* Quản lý tập trung nhóm người dùng thông qua User Group.
+* Làm chủ cơ chế Switch Roles an toàn thay vì dùng khóa cứng cố định.
